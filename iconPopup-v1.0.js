@@ -13,8 +13,8 @@
 
 		// OPTIONS
 		var options = $.extend({
-			popupLocation: 'images/icons/popups/',
-			iconLocation: 'images/icons/',
+			popupLocation: '',
+			iconLocation: '',
 			fileExt: 'png',
 			locX: 0,
 			locY: 0,
